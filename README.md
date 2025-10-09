@@ -163,5 +163,7 @@ You will see the token-by-token response streamed directly to your terminal.
 ## 👥 Team & Contributions
 | Member           | Role              | Contributions                                            |
 | ----             | ----              | ----                                                     |
-| Abdul Muizz      | Full-Stack Lead   | Project architecture, backend, frontend, deployment      |
+| Abdul Muizz      | Full-Stack Lead   | Project architecture, and backend      |
 | Jampala Swathvik | Backend Developer | API development, database schema, debugging, and testing |
+| Abdul Nasir      | Frontend Developer | Frontend, and Deployment |
+
